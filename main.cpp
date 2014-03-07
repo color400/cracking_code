@@ -1,4 +1,8 @@
+#include <iostream>
+#include <string>
 #include "hw_1_3.h"
+
+using namespace std;
 
 
 int main()
