@@ -1,4 +1,4 @@
-#include "hw_1_3.cpp"
+#include "hw_1_3.h"
 
 using namespace std;
 
